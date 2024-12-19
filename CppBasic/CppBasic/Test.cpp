@@ -90,6 +90,10 @@ void Test::Test_1219_Arithmetic()
     a = 7;
     b = 3;
     c = a % b; // 나머지를 구하는 연산
+    cout << c << endl;
+    c = 0;
+    c = a - (a / b) * b;
+    cout << c << endl;
 
     int end = 0;
 }
