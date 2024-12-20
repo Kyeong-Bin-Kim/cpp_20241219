@@ -33,10 +33,9 @@
               "Title": "iostream",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\iostream",
               "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\iostream",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-12-19T03:30:16.968Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T03:30:16.968Z"
             },
             {
               "$type": "Document",
@@ -46,10 +45,9 @@
               "RelativeDocumentMoniker": "CppBasic\\Test.cpp",
               "ToolTip": "D:\\kkb\\cpp_20241219\\CppBasic\\CppBasic\\Test.cpp",
               "RelativeToolTip": "CppBasic\\Test.cpp",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAiwGIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFEAAAAAAAAAAADwv3UAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-19T03:27:41.72Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T03:27:41.72Z"
             },
             {
               "$type": "Document",
@@ -59,10 +57,9 @@
               "RelativeDocumentMoniker": "CppBasic\\Test.h",
               "ToolTip": "D:\\kkb\\cpp_20241219\\CppBasic\\CppBasic\\Test.h",
               "RelativeToolTip": "CppBasic\\Test.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-19T03:24:07.666Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T03:24:07.666Z"
             },
             {
               "$type": "Document",
@@ -72,7 +69,7 @@
               "RelativeDocumentMoniker": "CppBasic\\CppBasic.cpp",
               "ToolTip": "D:\\kkb\\cpp_20241219\\CppBasic\\CppBasic\\CppBasic.cpp",
               "RelativeToolTip": "CppBasic\\CppBasic.cpp",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAB4AAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAADwvyUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-19T03:17:46.699Z",
               "EditorCaption": ""

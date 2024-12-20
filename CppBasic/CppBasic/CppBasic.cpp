@@ -17,6 +17,7 @@
 * Ctrl + ,(코드 검색 기능)
 * Ctrl + .(빠른 작업 및 리팩토링)
 * Ctrl + Tab(열려있는 창 이동)
+* Alt + 위,아래(줄바꿈)
 */
 #include <iostream> //<>꺽쇄는 기본적으로 내장된 것
 #include "Test.h"
@@ -30,4 +31,8 @@ int main() // main 함수(엔트리포인트-시작지점)
     //day.Test_1219_DataType();
     //day.Test_1219_Arithmetic();
 
+    //day.Test_1220_Assignment();
+    //day.Test_1220_Comparison();
+    //day.Test_1220_Logical();
+    //day.Test_1220_Bitwise();
 }
