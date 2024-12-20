@@ -35,4 +35,9 @@ int main() // main 함수(엔트리포인트-시작지점)
     //day.Test_1220_Comparison();
     //day.Test_1220_Logical();
     //day.Test_1220_Bitwise();
+    //day.Test_1220_ControlStatement();
+    //day.Test_1220_SlotMachine();
+    //day.Test_1220_RPS();
+
+
 }
