@@ -127,11 +127,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Animal.cpp" />
     <ClCompile Include="CppBasic.cpp" />
+    <ClCompile Include="CppTest.cpp" />
     <ClCompile Include="Test.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="CppBasic.h" />
+    <ClInclude Include="Animal.h" />
+    <ClInclude Include="CppTest.h" />
+    <ClInclude Include="MyClass.h" />
+    <ClInclude Include="MyStruct.h" />
     <ClInclude Include="Test.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

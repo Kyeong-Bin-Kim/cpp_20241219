@@ -22,6 +22,10 @@
 #include <iostream> //<>꺽쇄는 기본적으로 내장된 것
 #include "Test.h"
 #include "CppBasic.h"
+#include "MyStruct.h"
+#include "MyClass.h"
+#include "Animal.h"
+#include "CppTest.h"
 
 using namespace std; //std 네임스페이스를 기본적으로 사용한다고 표시
 
@@ -39,18 +43,51 @@ int main() // main 함수(엔트리포인트-시작지점)
     //day.Test_1220_ControlStatement();
     //day.Test_1220_SlotMachine();
     //day.Test_1220_RPS();
+ 
+    //day.Test_1223_Pointer();
+    //day.Test_1223_Reference();
+    //day.Test_1223_String();
+	//day.Test_1223_StringPractice();
 
-    // 포인터 : 메모리 주소를 저장하는 변수
-    int a = 10;
-    int* pAddress = nullptr;
-    pAddress = &a; // 주소연산자 &로 a변수의 주소를 가져오기
+	//// 클래스 : 객체의 데이터와 동작을 표현한 것
+	//MyClass a;
+	//a.height = 180;
 
-    int b = *pAddress; // 간접참조연산자 *로 pAddress 주소에 들어있는 데이터를 int타입으로 가져오는 것
+	//Animal* animal = new Animal();
+	//animal->Cry();
 
-    int array[5] = {1, 3, 5, 7, 9};
+	///*Dog* dog = new Dog();
+	//dog->Cry();*/
+	//Animal* dog = new Dog();
+	//dog->Cry();		// Cry가 일반 함수라면 현재 자신의 타입을 기준으로 함수가 실행됨
+	//// Cry가 가상 함수라면 자신의 인스턴스 기준으로 함수가 실행됨
 
-    pAddress = array;
+	//delete dog;
+	//dog = nullptr;
 
-    // pAddress + 1; array[1]; 같은 동작
-    // *(pAddress + 5) = 30; // 범위를 벗어나서 접근
+	//delete animal;
+	//animal = nullptr;
+
+    std::vector<std::vector<std::string>> maze;
+    generateMaze(maze);
+
+    int currentRow = 0, currentCol = 0;
+
+    std::cout << "Welcome! You are at: Start\n";
+
+    while (true) {
+        printMaze(maze);
+        int input = getValidInput();
+        movePlayer(currentRow, currentCol, input);
+
+        std::cout << "You are now at: (" << currentRow << ", " << currentCol << ") - " << maze[currentRow][currentCol] << "\n";
+
+        if (maze[currentRow][currentCol] == "Goal Point") {
+            std::cout << "Congratulations! You've reached the Goal Point!\n";
+            break;
+        }
+    }
+
+    return 0;
+
 }
