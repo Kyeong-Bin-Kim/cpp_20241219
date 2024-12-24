@@ -128,13 +128,20 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Animal.cpp" />
+    <ClCompile Include="BinarySearchTree.cpp" />
+    <ClCompile Include="Charater.cpp" />
     <ClCompile Include="CppBasic.cpp" />
     <ClCompile Include="CppTest.cpp" />
+    <ClCompile Include="enums.h" />
+    <ClCompile Include="LinkedList.cpp" />
     <ClCompile Include="Test.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Animal.h" />
+    <ClInclude Include="BinarySearchTree.h" />
+    <ClInclude Include="Charater.h" />
     <ClInclude Include="CppTest.h" />
+    <ClInclude Include="LinkedList.h" />
     <ClInclude Include="MyClass.h" />
     <ClInclude Include="MyStruct.h" />
     <ClInclude Include="Test.h" />

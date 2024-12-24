@@ -1,6 +1,14 @@
 // 선언부
+#include <vector>
+#include <list>
+#include <map>
+#include "CppTest.h"
+#include "Animal.h"
 #include "MyStruct.h"
 #include "MyClass.h"
+#include "enums.h"
+#include "LinkedList.h"
+#include "BinarySearchTree.h"
 
 #define PI 3.141592		// 매크로 : 컴파일 할 때 PI라는 글자가 3.141592로 자동 변경된다.
 
@@ -15,6 +23,7 @@ public:
 	void Test_1219_InputOutput();
 	void Test_1219_DataType();
 	void Test_1219_ArithmeticOperator();
+
 	void Test_1220_Assignment();
 	void Test_1220_Comparison();
 	void Test_1220_Logical();
@@ -24,11 +33,20 @@ public:
 	void Test_1220_RPS();
 	void Test_1220_Template();
 	void Test_1220_Array();
+
+	int Test_1221_CppTest();
+
 	void Test_1223_Pointer();
 	void Test_1223_Reference();
 	void Test_1223_String();
 	void Test_1223_StringPractice();
 	void Test_1223_Structure();
+
+	void Test_1224_Class();
+	void Test_1224_Enum();
+	void Test_1224_List();
+	void Test_1224_BST();
+	void Test_1224_STL();
 };
 
 void TestFunction(int, float);	// 함수의 선언 : 리턴값의 타입, 함수 이름, 파라메터들(0개 이상 가능)

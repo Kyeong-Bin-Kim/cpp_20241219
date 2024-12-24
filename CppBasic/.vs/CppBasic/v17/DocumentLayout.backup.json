@@ -3,28 +3,40 @@
   "WorkspaceRootPath": "D:\\kkb\\cpp_20241219\\CppBasic\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8C1C2772-B477-4E5C-B761-98443741FF5A}|CppBasic\\CppBasic.vcxproj|D:\\kkb\\cpp_20241219\\CppBasic\\CppBasic\\CppTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8C1C2772-B477-4E5C-B761-98443741FF5A}|CppBasic\\CppBasic.vcxproj|solutionrelative:CppBasic\\CppTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C1C2772-B477-4E5C-B761-98443741FF5A}|CppBasic\\CppBasic.vcxproj|D:\\kkb\\cpp_20241219\\CppBasic\\CppBasic\\CppTest.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8C1C2772-B477-4E5C-B761-98443741FF5A}|CppBasic\\CppBasic.vcxproj|solutionrelative:CppBasic\\CppTest.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{8C1C2772-B477-4E5C-B761-98443741FF5A}|CppBasic\\CppBasic.vcxproj|D:\\kkb\\cpp_20241219\\CppBasic\\CppBasic\\Test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8C1C2772-B477-4E5C-B761-98443741FF5A}|CppBasic\\CppBasic.vcxproj|solutionrelative:CppBasic\\Test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8C1C2772-B477-4E5C-B761-98443741FF5A}|CppBasic\\CppBasic.vcxproj|D:\\kkb\\cpp_20241219\\CppBasic\\CppBasic\\Test.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8C1C2772-B477-4E5C-B761-98443741FF5A}|CppBasic\\CppBasic.vcxproj|solutionrelative:CppBasic\\Test.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C1C2772-B477-4E5C-B761-98443741FF5A}|CppBasic\\CppBasic.vcxproj|D:\\kkb\\cpp_20241219\\CppBasic\\CppBasic\\MyStruct.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8C1C2772-B477-4E5C-B761-98443741FF5A}|CppBasic\\CppBasic.vcxproj|solutionrelative:CppBasic\\MyStruct.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8C1C2772-B477-4E5C-B761-98443741FF5A}|CppBasic\\CppBasic.vcxproj|D:\\kkb\\cpp_20241219\\CppBasic\\CppBasic\\CppBasic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8C1C2772-B477-4E5C-B761-98443741FF5A}|CppBasic\\CppBasic.vcxproj|solutionrelative:CppBasic\\CppBasic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C1C2772-B477-4E5C-B761-98443741FF5A}|CppBasic\\CppBasic.vcxproj|D:\\kkb\\cpp_20241219\\CppBasic\\CppBasic\\MyClass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8C1C2772-B477-4E5C-B761-98443741FF5A}|CppBasic\\CppBasic.vcxproj|solutionrelative:CppBasic\\MyClass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{8C1C2772-B477-4E5C-B761-98443741FF5A}|CppBasic\\CppBasic.vcxproj|D:\\kkb\\cpp_20241219\\CppBasic\\CppBasic\\BinarySearchTree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8C1C2772-B477-4E5C-B761-98443741FF5A}|CppBasic\\CppBasic.vcxproj|solutionrelative:CppBasic\\BinarySearchTree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C1C2772-B477-4E5C-B761-98443741FF5A}|CppBasic\\CppBasic.vcxproj|D:\\kkb\\cpp_20241219\\CppBasic\\CppBasic\\LinkedList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8C1C2772-B477-4E5C-B761-98443741FF5A}|CppBasic\\CppBasic.vcxproj|solutionrelative:CppBasic\\LinkedList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C1C2772-B477-4E5C-B761-98443741FF5A}|CppBasic\\CppBasic.vcxproj|D:\\kkb\\cpp_20241219\\CppBasic\\CppBasic\\BinarySearchTree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8C1C2772-B477-4E5C-B761-98443741FF5A}|CppBasic\\CppBasic.vcxproj|solutionrelative:CppBasic\\BinarySearchTree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C1C2772-B477-4E5C-B761-98443741FF5A}|CppBasic\\CppBasic.vcxproj|D:\\kkb\\cpp_20241219\\CppBasic\\CppBasic\\charater.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8C1C2772-B477-4E5C-B761-98443741FF5A}|CppBasic\\CppBasic.vcxproj|solutionrelative:CppBasic\\charater.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C1C2772-B477-4E5C-B761-98443741FF5A}|CppBasic\\CppBasic.vcxproj|D:\\kkb\\cpp_20241219\\CppBasic\\CppBasic\\LinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8C1C2772-B477-4E5C-B761-98443741FF5A}|CppBasic\\CppBasic.vcxproj|solutionrelative:CppBasic\\LinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C1C2772-B477-4E5C-B761-98443741FF5A}|CppBasic\\CppBasic.vcxproj|D:\\kkb\\cpp_20241219\\CppBasic\\CppBasic\\CppTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8C1C2772-B477-4E5C-B761-98443741FF5A}|CppBasic\\CppBasic.vcxproj|solutionrelative:CppBasic\\CppTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8C1C2772-B477-4E5C-B761-98443741FF5A}|CppBasic\\CppBasic.vcxproj|D:\\kkb\\cpp_20241219\\CppBasic\\CppBasic\\Animal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -35,8 +47,16 @@
       "RelativeMoniker": "D:0:0:{8C1C2772-B477-4E5C-B761-98443741FF5A}|CppBasic\\CppBasic.vcxproj|solutionrelative:CppBasic\\Animal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C1C2772-B477-4E5C-B761-98443741FF5A}|CppBasic\\CppBasic.vcxproj|D:\\kkb\\cpp_20241219\\CppBasic\\CppBasic\\Test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8C1C2772-B477-4E5C-B761-98443741FF5A}|CppBasic\\CppBasic.vcxproj|solutionrelative:CppBasic\\Test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{8C1C2772-B477-4E5C-B761-98443741FF5A}|CppBasic\\CppBasic.vcxproj|D:\\kkb\\cpp_20241219\\CppBasic\\CppBasic\\MyClass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8C1C2772-B477-4E5C-B761-98443741FF5A}|CppBasic\\CppBasic.vcxproj|solutionrelative:CppBasic\\MyClass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C1C2772-B477-4E5C-B761-98443741FF5A}|CppBasic\\CppBasic.vcxproj|D:\\kkb\\cpp_20241219\\CppBasic\\CppBasic\\MyStruct.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8C1C2772-B477-4E5C-B761-98443741FF5A}|CppBasic\\CppBasic.vcxproj|solutionrelative:CppBasic\\MyStruct.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C1C2772-B477-4E5C-B761-98443741FF5A}|CppBasic\\CppBasic.vcxproj|D:\\kkb\\cpp_20241219\\CppBasic\\CppBasic\\CppTest.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8C1C2772-B477-4E5C-B761-98443741FF5A}|CppBasic\\CppBasic.vcxproj|solutionrelative:CppBasic\\CppTest.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -45,93 +65,161 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "DockedWidth": 103,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Test.h",
-              "DocumentMoniker": "D:\\kkb\\cpp_20241219\\CppBasic\\CppBasic\\Test.h",
-              "RelativeDocumentMoniker": "CppBasic\\Test.h",
-              "ToolTip": "D:\\kkb\\cpp_20241219\\CppBasic\\CppBasic\\Test.h",
-              "RelativeToolTip": "CppBasic\\Test.h",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAADQAAAAeAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "LinkedList.h",
+              "DocumentMoniker": "D:\\kkb\\cpp_20241219\\CppBasic\\CppBasic\\LinkedList.h",
+              "RelativeDocumentMoniker": "CppBasic\\LinkedList.h",
+              "ToolTip": "D:\\kkb\\cpp_20241219\\CppBasic\\CppBasic\\LinkedList.h",
+              "RelativeToolTip": "CppBasic\\LinkedList.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-19T03:24:07.666Z",
-              "IsPinned": true,
+              "WhenOpened": "2024-12-24T01:40:59.637Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BinarySearchTree.h",
+              "DocumentMoniker": "D:\\kkb\\cpp_20241219\\CppBasic\\CppBasic\\BinarySearchTree.h",
+              "RelativeDocumentMoniker": "CppBasic\\BinarySearchTree.h",
+              "ToolTip": "D:\\kkb\\cpp_20241219\\CppBasic\\CppBasic\\BinarySearchTree.h",
+              "RelativeToolTip": "CppBasic\\BinarySearchTree.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-24T05:14:33.3Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 297,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "LinkedList.cpp",
+              "DocumentMoniker": "D:\\kkb\\cpp_20241219\\CppBasic\\CppBasic\\LinkedList.cpp",
+              "RelativeDocumentMoniker": "CppBasic\\LinkedList.cpp",
+              "ToolTip": "D:\\kkb\\cpp_20241219\\CppBasic\\CppBasic\\LinkedList.cpp",
+              "RelativeToolTip": "CppBasic\\LinkedList.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-24T01:46:31.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BinarySearchTree.cpp",
+              "DocumentMoniker": "D:\\kkb\\cpp_20241219\\CppBasic\\CppBasic\\BinarySearchTree.cpp",
+              "RelativeDocumentMoniker": "CppBasic\\BinarySearchTree.cpp",
+              "ToolTip": "D:\\kkb\\cpp_20241219\\CppBasic\\CppBasic\\BinarySearchTree.cpp",
+              "RelativeToolTip": "CppBasic\\BinarySearchTree.cpp",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAkwH4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-24T05:14:53.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "CppBasic.cpp",
               "DocumentMoniker": "D:\\kkb\\cpp_20241219\\CppBasic\\CppBasic\\CppBasic.cpp",
               "RelativeDocumentMoniker": "CppBasic\\CppBasic.cpp",
               "ToolTip": "D:\\kkb\\cpp_20241219\\CppBasic\\CppBasic\\CppBasic.cpp",
               "RelativeToolTip": "CppBasic\\CppBasic.cpp",
-              "ViewState": "AgIAADYAAAAAAAAAAAAkwFIAAAB/AAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-19T03:17:46.699Z",
-              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
+              "Title": "Test.h",
+              "DocumentMoniker": "D:\\kkb\\cpp_20241219\\CppBasic\\CppBasic\\Test.h",
+              "RelativeDocumentMoniker": "CppBasic\\Test.h",
+              "ToolTip": "D:\\kkb\\cpp_20241219\\CppBasic\\CppBasic\\Test.h",
+              "RelativeToolTip": "CppBasic\\Test.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-19T03:24:07.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Test.cpp",
               "DocumentMoniker": "D:\\kkb\\cpp_20241219\\CppBasic\\CppBasic\\Test.cpp",
               "RelativeDocumentMoniker": "CppBasic\\Test.cpp",
               "ToolTip": "D:\\kkb\\cpp_20241219\\CppBasic\\CppBasic\\Test.cpp",
               "RelativeToolTip": "CppBasic\\Test.cpp",
-              "ViewState": "AgIAAFUDAAAAAAAAAAAkwHQDAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEEDAAAAAAAAAAAqwF0DAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-20T07:11:09.432Z",
-              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "Charater.h",
+              "DocumentMoniker": "D:\\kkb\\cpp_20241219\\CppBasic\\CppBasic\\Charater.h",
+              "RelativeDocumentMoniker": "CppBasic\\Charater.h",
+              "ToolTip": "D:\\kkb\\cpp_20241219\\CppBasic\\CppBasic\\Charater.h",
+              "RelativeToolTip": "CppBasic\\Charater.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-24T00:31:07.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Animal.cpp",
               "DocumentMoniker": "D:\\kkb\\cpp_20241219\\CppBasic\\CppBasic\\Animal.cpp",
               "RelativeDocumentMoniker": "CppBasic\\Animal.cpp",
               "ToolTip": "D:\\kkb\\cpp_20241219\\CppBasic\\CppBasic\\Animal.cpp",
               "RelativeToolTip": "CppBasic\\Animal.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-23T07:38:45.301Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Animal.h",
               "DocumentMoniker": "D:\\kkb\\cpp_20241219\\CppBasic\\CppBasic\\Animal.h",
               "RelativeDocumentMoniker": "CppBasic\\Animal.h",
               "ToolTip": "D:\\kkb\\cpp_20241219\\CppBasic\\CppBasic\\Animal.h",
               "RelativeToolTip": "CppBasic\\Animal.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-12-23T07:35:15.049Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "MyClass.h",
               "DocumentMoniker": "D:\\kkb\\cpp_20241219\\CppBasic\\CppBasic\\MyClass.h",
               "RelativeDocumentMoniker": "CppBasic\\MyClass.h",
               "ToolTip": "D:\\kkb\\cpp_20241219\\CppBasic\\CppBasic\\MyClass.h",
               "RelativeToolTip": "CppBasic\\MyClass.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-12-23T07:11:29.486Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 12,
               "Title": "MyStruct.h",
               "DocumentMoniker": "D:\\kkb\\cpp_20241219\\CppBasic\\CppBasic\\MyStruct.h",
               "RelativeDocumentMoniker": "CppBasic\\MyStruct.h",
@@ -144,7 +232,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 13,
               "Title": "CppTest.h",
               "DocumentMoniker": "D:\\kkb\\cpp_20241219\\CppBasic\\CppBasic\\CppTest.h",
               "RelativeDocumentMoniker": "CppBasic\\CppTest.h",
@@ -157,13 +245,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "CppTest.cpp",
               "DocumentMoniker": "D:\\kkb\\cpp_20241219\\CppBasic\\CppBasic\\CppTest.cpp",
               "RelativeDocumentMoniker": "CppBasic\\CppTest.cpp",
               "ToolTip": "D:\\kkb\\cpp_20241219\\CppBasic\\CppBasic\\CppTest.cpp",
               "RelativeToolTip": "CppBasic\\CppTest.cpp",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACIAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-23T07:56:36.876Z",
               "EditorCaption": ""
